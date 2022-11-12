@@ -13,9 +13,9 @@
 
 ### I am a Developer
 - 👋 Hi, I’m @szndr
-- 🧑‍🔬 I have experience in: Marketing, Branding, Copywriting, Customer Interaction
+- 🧑‍🔬 I have experience in: Marketing, Branding, Copywriting, Customer Care
 - 👀 I’m interested in developing my programming skills and am happy to take challanges
-- 💞️ Looking to collaborate on web automation, ecomm, seo and projects of a similar caliber
+- 💞️ Looking to collaborate on web automation, ecomm, seo and any other projects of a similar caliber
 - 🥅 Goals: launch my first automation project
 
 

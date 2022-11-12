@@ -14,9 +14,8 @@
 ### I am a Developer
 - 👋 Hi, I’m @szndr
 - 👀 I’m interested in developing my skills and am happy to take challanges
-- 🌱 I’m currently learning c# and python
 - 💞️ Looking to collaborate on web projects (automation/ websites)
-- 🥅 2023 Goals: learn more languages (Java)
+- 🥅 2023 Goals: launch my first automation project
 
 <br>
 

@@ -13,9 +13,13 @@
 
 ### I am a Developer
 - 👋 Hi, I’m @szndr
-- 👀 I’m interested in developing my skills and am happy to take challanges
-- 💞️ Looking to collaborate on web projects (automation/ websites)
-- 🥅 2023 Goals: launch my first automation project
+- 🧑‍🔬 I have experience in: Marketing, Branding, Copywriting, Customer Interaction
+- 👀 I’m interested in developing my programming skills and am happy to take challanges
+- 💞️ Looking to collaborate on web automation, ecomm, seo and projects of a similar caliber
+- 🥅 Goals: launch my first automation project
+
+
+
 
 
 
